@@ -1,0 +1,10 @@
+{
+  "adapter": "foldx-systemone-chunked255-mean2-v1",
+  "model_type": "decision-model",
+  "name": "Fold-X/Fold-X-4B-1.0-Deep",
+  "open_weights": false,
+  "parameter_count": 4000000000,
+  "probability_source": "native_candidate_probabilities_mean2_two_forward_single_anchor_aligned_v1",
+  "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+  "url": null
+}
